@@ -104,7 +104,7 @@ GSAP（GreenSock Animation Platform）是业界最强的 JS 动画库，可以�
 
 > 本仓库以 **git submodule** 方式引入 GSAP，指向官方仓库。克隆时加 `--recursive`：
 > ```bash
-> git clone --recursive https://github.com/chenp0401/html-ppt-collection.git
+> git clone --recursive https://github.com/chenp0401/ppt-toolkit.git
 > ```
 
 ---
